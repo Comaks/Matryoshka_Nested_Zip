@@ -1,6 +1,6 @@
 #!/bin/bash
 
-i=5000 #rakam duruma göre değiştirilebilir.
+i=5000 #change this
 
 while [ $i -ge 0 ];
 do
