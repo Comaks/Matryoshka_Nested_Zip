@@ -1,6 +1,6 @@
 #!/bin/bash
 
-original_file="0.zip"
+original_file="0.zip" #change this
 i=1
 
 while [ $i -le 10 ]
